@@ -8,9 +8,9 @@ import (
 	"strings"
 	"sync"
 
-	"agenthive-go/pkg/builder"
-	"agenthive-go/pkg/llmclient"
-	"agenthive-go/pkg/tools"
+	"hivemind-go/pkg/builder"
+	"hivemind-go/pkg/llmclient"
+	"hivemind-go/pkg/tools"
 )
 
 type TaskDelegator struct {

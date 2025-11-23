@@ -10,10 +10,10 @@ import (
 	"runtime"
 	"time"
 
-	"agenthive-go/pkg/assistants"
-	"agenthive-go/pkg/builder"
-	"agenthive-go/pkg/llmclient"
-	"agenthive-go/pkg/tools"
+	"hivemind-go/pkg/assistants"
+	"hivemind-go/pkg/builder"
+	"hivemind-go/pkg/llmclient"
+	"hivemind-go/pkg/tools"
 )
 
 type FileTool struct {

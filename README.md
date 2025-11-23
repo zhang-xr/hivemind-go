@@ -28,6 +28,5 @@
   如需开源，建议：
   1) 将真实配置重命名为 `config.local.toml` 并加入 `.gitignore`
   2) 新增一个 `config.example.toml`（使用占位符）供参考。
-- 本仓库的 `go.mod` 模块名为 `agenthive-go`，与远程仓库名不同并不影响运行。
+- 本仓库的 `go.mod` 模块名为 `hivemind-go`，与远程仓库名不同并不影响运行。
   如需对外引用，建议将模块名改为 `github.com/zhang-xr/hivemind-go` 并全局替换导入路径。
-

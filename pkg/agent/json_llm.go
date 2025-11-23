@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"strings"
 
-	"agenthive-go/pkg/llmclient"
-	"agenthive-go/pkg/tools"
+	"hivemind-go/pkg/llmclient"
+	"hivemind-go/pkg/tools"
 )
 
 type LLMResponseAction struct {

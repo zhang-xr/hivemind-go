@@ -1,6 +1,6 @@
 package history
 
-import "agenthive-go/pkg/types"
+import "hivemind-go/pkg/types"
 
 type Strategy interface {
 	Apply(messages []types.Message) []types.Message

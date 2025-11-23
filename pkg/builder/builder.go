@@ -9,9 +9,9 @@ import (
 	"reflect"
 	"regexp"
 
-	"agenthive-go/pkg/agent"
-	"agenthive-go/pkg/llmclient"
-	"agenthive-go/pkg/tools"
+	"hivemind-go/pkg/agent"
+	"hivemind-go/pkg/llmclient"
+	"hivemind-go/pkg/tools"
 )
 
 type ToolConfig interface{}

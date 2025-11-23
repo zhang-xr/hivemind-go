@@ -1,4 +1,4 @@
-module agenthive-go
+module hivemind-go
 
 go 1.23.0
 

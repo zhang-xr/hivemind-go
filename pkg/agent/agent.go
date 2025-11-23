@@ -10,10 +10,10 @@ import (
 
 	"github.com/google/uuid"
 
-	"agenthive-go/pkg/history"
-	"agenthive-go/pkg/llmclient"
-	"agenthive-go/pkg/tools"
-	"agenthive-go/pkg/types"
+	"hivemind-go/pkg/history"
+	"hivemind-go/pkg/llmclient"
+	"hivemind-go/pkg/tools"
+	"hivemind-go/pkg/types"
 )
 
 type Agent struct {
